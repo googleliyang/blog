@@ -6,7 +6,7 @@
   <link href="http://googleliyang.github.io/blog/atom.xml" rel="self"/>
   
   <link href="http://googleliyang.github.io/blog/"/>
-  <updated>2021-05-13T09:13:19.109Z</updated>
+  <updated>2021-05-13T10:54:05.657Z</updated>
   <id>http://googleliyang.github.io/blog/</id>
   
   <author>
@@ -17,18 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>vpn</title>
     <link href="http://googleliyang.github.io/blog/2021/05/13/hello-world/"/>
     <id>http://googleliyang.github.io/blog/2021/05/13/hello-world/</id>
     <published>2021-05-13T09:13:19.109Z</published>
-    <updated>2021-05-13T09:13:19.109Z</updated>
+    <updated>2021-05-13T10:54:05.657Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><ul><li>访问国房网限制网址</li><li>jar 包无限制安装，不会再出现github … 网络超时</li><li>拒绝百度，google 查询资料</li><li>查看全球时事热点</li><li>浏览全球自媒体</li><li>海量学习资料</li></ul><h3 id="google-检索"><a href="#google-检索" class="headerlink" title="google 检索"></a>google 检索</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">检索精确，可以快速得到问题答案，尤其写代码。</span><br></pre></td></tr></table></figure><h3 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://youtube.com // 全球最大自媒体视频站， 可以检索学习视频，时事热点，如： 第七次人口普查意义， b站也可以，但是由于审核，内容有些保守，但是学习的话没啥问题</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly95b3V0dWJlLmNvbS8=">youtube</span></p><h3 id="社交资讯"><a href="#社交资讯" class="headerlink" title="社交资讯"></a>社交资讯</h3><ol><li><p>twitter <span class="exturl" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS8=">https://twitter.com/</span></p></li><li><p>Instgram <span class="exturl" data-url="aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS8=">https://www.instagram.com/</span></p></li><li><p>影视： <span class="exturl" data-url="aHR0cDovL25ldGZsaXguY29tLw==">http://netflix.com/</span> ; 世界各国电影 2-4 国字幕， 比如老友记，学习英文，国内资源上都是中文字幕，也可以看中国电影用英文字幕</p></li><li><p>facebook： <span class="exturl" data-url="aHR0cHM6Ly9mYWNlYm9vay5jb20v">https://facebook.com/</span> 交友平台</p></li><li><p>哈佛在线免费课程： <span class="exturl" data-url="aHR0cHM6Ly93d3cuZWR4Lm9yZy9zZWFyY2g=">https://www.edx.org/search</span></p></li><li><p>语言交换(超级好用)： <span class="exturl" data-url="aHR0cHM6Ly93d3cuaGVsbG90YWxrLmNvbS8=">https://www.hellotalk.com/</span></p></li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;访问国房网限制网址&lt;/li&gt;
+&lt;li&gt;jar 包无限制安</summary>
       
     
     
